@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-01/trustfile",
+  "title":"",
+  "goals":[
+
+  ],
+  "trustee":[
+
+  ],
+  "members":[
+
+  ],
+  "resouces":[
+
+  ],
+  "uses":[
+    {}
+  ],
+  "functions": [
+    {}
+  ],
+
+  "dags": [
+    {
+     "name":"Descriptive name of the DAG that is human readable",
+      "pipline":"Dagster-defined pipeline function name like create_median_outcomes_for_programs",
+      "source":"Internal link for inspectable source code for dag"
+    }
+  ],
+  "users":[
+    {
+      "name":"Name of user 1",
+
+    },
+    {
+      "name":"Name of user 2"
+    }
+
+  ],
+  "principles": [
+    {}
+  ],
+
+}

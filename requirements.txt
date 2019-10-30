@@ -1,0 +1,15 @@
+json
+pandas
+pyyaml
+pypandoc
+datapackage
+great_expectations
+dagster
+setuptools
+gremlinpython
+graphene>=2.0
+SPARQLWrapper
+hashlib
+toml
+logging
+networkx

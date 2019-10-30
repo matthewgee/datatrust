@@ -1,0 +1,8 @@
+global-include VERSION
+include LICENSE
+include pylama.ini
+include pytest.ini
+include README.md
+
+global-include *.json
+gloabl-include *.yaml
